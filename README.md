@@ -39,9 +39,6 @@ And you'll get forecast information as output!:
 
 > Note: Forecast API is free until 1000 requests per day. For more information, check their FAQ: https://darksky.net/dev/docs/faq
 
-### Contributing
-Feel free to contribute to this project, pull requests and other improvements are welcome. If you have any ideas, just open an issue and tell me what you think, or send me an email to hello (at) ordermin.com
-
 
 
 
